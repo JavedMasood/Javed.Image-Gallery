@@ -1,0 +1,49 @@
+.gallery {  
+     max-width: 900px;  
+     margin: 40px auto;  
+     padding: 10%; 
+     background-color: #faa4a4d6;  
+      border: 1px solid #ddd;  
+       box-shadow: 0 0 10px rgba(253, 97, 97, 0.1); 
+    } 
+.gallery-thumbnails {  
+         display: flex;  
+          flex-wrap: wrap; 
+            justify-content: center;
+     } 
+.thumbnail { 
+          width: 150px;  
+          height: 200px;  
+           margin: 10px;   
+           border: 1px solid #F08080;  
+            cursor: pointer;
+     } 
+.thumbnail:hover {   
+    border-color: #e7adad; 
+} 
+.gallery-full {   
+    display: table-header-group;   
+    justify-content: center;  
+     margin-top: 10px;
+  }  
+ .gallery-full img {   
+    max-width: 50%;  
+     height: 50%;  
+      border: 1px solid #58ced0;
+ } 
+ .gallery-nav {  
+     display: flex;   
+     justify-content: space-between;   
+     margin-top: 5px;
+     } 
+ .gallery-nav button {  
+     padding: 10px 20px; 
+     border: none;  
+     border-radius: 20px; 
+     background-color: #8fabee;   
+     color: #04eecf;  
+     cursor: pointer;
+     } 
+ .gallery-nav button:hover { 
+    background-color: #ab80f0;
+ }
