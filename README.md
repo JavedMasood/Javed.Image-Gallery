@@ -15,3 +15,7 @@ Technologies:
 HTML: Structure of the gallery
 CSS: Styling for the gallery, lightbox, and image effects
 JavaScript: Dynamic image loading and lightbox functionality Screenshot (26)
+
+![Screenshot 2024-09-15 205647](https://github.com/user-attachments/assets/795c1701-5161-40e5-9b2f-74d8dac3a1f9)
+![Screenshot 2024-09-15 205701](https://github.com/user-attachments/assets/82de80b6-7352-4225-9485-aa2bc8ea40e1)
+
